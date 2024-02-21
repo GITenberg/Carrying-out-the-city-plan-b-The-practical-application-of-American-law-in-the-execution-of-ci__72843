@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '45460'
     url: http://www.gutenberg.org/2009/agents/45460
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Law_Olmsted
+covers:
+- cover_type: archival
+  image_path: 72843-h/images/cover.jpg
 creator:
   author:
     agent_name: Shurtleff, Flavel
     gutenberg_agent_id: '56830'
     url: http://www.gutenberg.org/2009/agents/56830
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72843#Carrying-out-the-city-plan-b-The-practical-application-of-American-law-in-the-execution-of-ci_
 gutenberg_issued: '2024-01-31'
 gutenberg_type: Text
 identifiers:
